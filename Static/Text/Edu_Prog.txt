@@ -1,0 +1,4 @@
+Наука: https://sochisirius.ru/obuchenie/nauka
+Искусство: https://sochisirius.ru/obuchenie/iskusctvo
+Спорт: https://sochisirius.ru/obuchenie/sport
+Литературное творчество: https://sochisirius.ru/obuchenie/literature
